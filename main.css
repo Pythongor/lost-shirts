@@ -94,6 +94,7 @@ ul > li {
     height: 100%;
     width: 100%;
     background: center center / contain no-repeat;
+    transition: opacity .5s;
 }
 
 .fade-slider__item--visible {
